@@ -1,3 +1,12 @@
+Vacation planning app that lets you plan what you want to do on a trip.
+Development in progress.
+Features coming up soon:
+- Calender to allocate tasks
+- Suggestions for activities based on location entered
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
